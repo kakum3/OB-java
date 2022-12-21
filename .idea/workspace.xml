@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79c30c52-c9a6-4380-aa62-e252bdd26a13" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/EjerciciosTema2/Main.java" afterDir="false" />
+    <list default="true" id="79c30c52-c9a6-4380-aa62-e252bdd26a13" name="Changes" comment="ejercicio2">
+      <change afterPath="$PROJECT_DIR$/src/EjerciciosTema3/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +47,20 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.EjerciciosTema3.Main">
+    <configuration name="EjerciciosTema3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjerciciosTema3.Main" />
+      <module name="OB-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EjerciciosTema3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EjerciciosTema1.Main" />
       <module name="OB-java" />
@@ -63,6 +76,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EjerciciosTema3.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -76,6 +90,18 @@
       <option name="presentableId" value="Default" />
       <updated>1671124703337</updated>
     </task>
+    <task id="LOCAL-00001" summary="ejercicio2">
+      <created>1671606025932</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671606025932</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ejercicio2" />
+    <option name="LAST_COMMIT_MESSAGE" value="ejercicio2" />
   </component>
 </project>
